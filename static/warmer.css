@@ -1,0 +1,15 @@
+body {
+	text-align: center;
+	font-family: 'HelveticaNeue-UltraLight', 'Helvetica Neue UltraLight';
+	background-image: url('/static/sky.jpg');
+	margin-top: 2cm;
+}
+
+h1 {
+	font-size: 80px;
+	color: #ffffff;
+}
+
+p {
+	font-size: 30px;
+}
